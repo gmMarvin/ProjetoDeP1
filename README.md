@@ -24,7 +24,7 @@
 	História do jogo
 </h2>
 <p>
-	A anja brilhante se encontra num labirinto e ela tem que encontrar a chave do portão para escapar do labirinto antes que sua energia vital acabe. Para isso a anja brilhante deve encontrar colétaveis que aumentam sua energia vital que tornando-a capaz de andar de percorrer o labirinto ou aumentar o tempo para a procura da sua escapatória. Ajude ela guiando o caminho que ela deve percorrer para escapar do labirinto. Conto com voce para essa missão...
+	A anja brilhante se encontra num labirinto e tem de encontrar a chave do portão para escapar do labirinto antes que sua energia vital acabe. Para isso, a anja deve encontrar colétaveis que aumentam sua energia vital tornando-a capaz de andar e percorrer o labirinto ou aumentar o tempo para a procura da sua escapatória. Ajude-a como o guia para a fuga. Conto com voce para essa missão...
 </p>
 
 ## Gameplay
@@ -72,7 +72,7 @@
 <a href="https://www.pygame.org/wiki/GettingStarted">
 Pygame 2
 </a>
-<p>Utilizamos o pygame porque é a biblioteca para jogos no ecosystema python mais popular, e ela realmente disponibiliza várias ferramentas que ajudou bastante o desenvolvimento do jogo, como a detecção de colisão entre objetos, detecção de inputs do teclado e mouse, um tratamento basico das imagens e etc... Além disso, como a finalidade do projeto é para é para colocarmos em prática o conhecimento em POO, ao utilizar o pygame isso é alcançado quase que naturalmente pois praticamente todo projeto vai precisar sprites e para usar isso vai ter que herdar da classe Sprite do pygame.</p>
+<p>Utilizamos o pygame porque é a biblioteca para jogos no ecossistema python mais popular, e ela realmente disponibiliza várias ferramentas que ajudaram bastante o desenvolvimento do jogo, como a detecção de colisão entre objetos, detecção de inputs do teclado e mouse, um tratamento basico das imagens etc... Além disso, como a finalidade do projeto é de que coloquemos em prática o conhecimento de POO, ao utilizar o pygame isso é alcançado quase que naturalmente pois praticamente todo projeto vai precisar de sprites e para usar disso será necessário herdar a classe Sprite do pygame.</p>
 <br>
 <a href="">OS</a>
 <p>biblioteca que ajuda achar o local correto de um arquivo no projeto</p>
@@ -151,11 +151,11 @@ Pygame 2
 
 <h3>Gabriel Marvin</h3>
 
-> Sistema de Audio do jogo, e Além disso trabalou com Vinicius para criar a classe dos botões de ui
+> Sistema de Audio do jogo, e Além disso trabalhou com Vinicius para criar a classe dos botões de ui
 
 <h3>Daniel Lapa</h3>
 
-> Sistema de colisão das caixas, desenho do coletável a chave na tela e o sistema de botões em jogo que abre as tiles que não bloqueadas
+> Sistema de colisão das caixas, desenho do coletável, a chave na tela e o sistema de botões em jogo que abre as tiles que não bloqueadas
 
 <h3>Vinicius Nobre</h3>
 
@@ -197,7 +197,7 @@ Utilizamos muitas classes, para a componentizar bastante o nosso projeto. para e
   <td align="center"><b>Como Resolvemos</b></td>
   <tr/>
   <td align="left">Divisão tardia das tarefas</td>
-  <td align="left">Conseguimos nos reoorganizar e distribuir as tarefas de uma forma melhor realizando sprints diários com meets para decidir o que seria feito e mostrar o que foi feito ao líder</td>
+  <td align="left">Conseguimos nos reorganizar e distribuir as tarefas de uma forma melhor realizando sprints diários com meets para decidir o que seria feito e mostrar o que foi feito ao líder</td>
  </tr>
  </tr>
  </table>
